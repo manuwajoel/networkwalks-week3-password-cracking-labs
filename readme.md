@@ -5,9 +5,9 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name** | [Your name] |
-| **Program/Batch** | B082 – Networkwalks |
-| **Date** | [Submission date] |
+| **Pentester Name** | Manuwa Joel |
+| **Program/Batch** | B084 – Networkwalks |
+| **Date** | 11/20/2026 |
 | **Modules completed** | W3-PM1 (Password Cracking with JTR); W3-PM2 (Password Cracking with NW Tools) |
 | **Lab environment** | [Operating system / virtual machine / tools used] |
 | **Authorization** | Educational lab and password samples/systems explicitly authorized for testing |
